@@ -10,6 +10,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
+- type: linkedin
+  icon: 'fab fa-linkedin'
+
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
@@ -19,21 +22,17 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-- type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  ''                  # Fill with your Linkedin homepage
+# - type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  'https://stackoverflow.com/users/14692938/dnelson17'                  # Fill with your stackoverflow homepage
 #
-- type: stack-overflow
-  icon: 'fab fa-stack-overflow'
-  url:  'https://stackoverflow.com/users/14692938/dnelson17'                  # Fill with your stackoverflow homepage
+# - type: bluesky
+#   icon: 'fa-brands fa-bluesky'
+#   url: 'https://bsky.app/profile/dndata.bsky.social'                   # Fill with your Bluesky profile link
 #
-- type: bluesky
-  icon: 'fa-brands fa-bluesky'
-  url: 'https://bsky.app/profile/dndata.bsky.social'                   # Fill with your Bluesky profile link
-#
-- type: reddit
-  icon: 'fa-brands fa-reddit'
-  url: 'https://www.reddit.com/user/dndatasci/'                   # Fill with your Reddit profile link
+# - type: reddit
+#   icon: 'fa-brands fa-reddit'
+#   url: 'https://www.reddit.com/user/dndatasci/'                   # Fill with your Reddit profile link
 #
 # - type: threads
 #   icon: 'fa-brands fa-threads'
